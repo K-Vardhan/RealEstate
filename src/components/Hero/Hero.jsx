@@ -2,7 +2,11 @@ import React from 'react'
 
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <section className="hero-wrapper">
+      <div className="paddings innerWidth flexCenter hero-container">
+
+      </div>
+    </section>
   )
 }
 
