@@ -22,15 +22,15 @@
 }
 
 .r-card>:nth-child(3){
-    font-style: 1.5rem;
+    font-size: 1.5rem;
 }
 
 .r-card>:nth-child(4){
-    font-style: 0.7rem;
+    font-size: 0.7rem;
     width: 15rem;
 }
 
-r-card:hover{
+.r-card:hover{
     scale:1.025;
     cursor: pointer;
     background: linear-gradient(
@@ -39,5 +39,9 @@ r-card:hover{
         rgba(136,160,255,0.46) 217.91%
     );
 
-    box-shadow: ;
+    box-shadow: 0px 72px 49px -51px rgba(136,160,255,0.21) ;
+}
+
+.swiper-horizontal{
+    overflow: visible;
 }
