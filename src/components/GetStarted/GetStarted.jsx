@@ -11,8 +11,8 @@ const GetStarted = () => {
             <br />
             Find your residence soon
           </span>
-          <button className="button" href>
-            <a href="kritivardhan020@gmail.com">Get Started</a>
+          <button className="button">
+            <a href="mailto:kritivardhan020@gmail.com">Get Started</a>
           </button>
         </div>
       </div>
